@@ -110,7 +110,7 @@ These actions can **increase profitability without increasing sales volume**.
 
 ## Project Files
 - **Main Notebook:**  
-  [Walmart_Sales_Profitability_Analysis.ipynb](https://github.com/favatos003/walmart-sales-profitability-analysis/blob/main/Walmart_Sales_%26_Profitability_Analysis_Business_Insights_for_Revenue_Optimization%20(3).ipynb)
+  [Walmart Sales & Profitability Analysis: Business Insights for Revenue Optimization.ipynb](https://github.com/favatos003/walmart-sales-profitability-analysis/blob/main/Walmart_Sales_%26_Profitability_Analysis_Business_Insights_for_Revenue_Optimization%20(3).ipynb)
 
 - **Exported Visuals:**  
   All charts saved as `.png` files for clear viewing on GitHub
