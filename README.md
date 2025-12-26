@@ -1,6 +1,6 @@
-# 🛒 Walmart Sales & Profitability Analysis
+# Walmart Sales & Profitability Analysis
 
-## 📌 Project Overview
+## Project Overview
 Retail companies like Walmart generate massive sales volumes, but **high revenue does not always mean high profitability**.  
 This project analyzes Walmart sales data to uncover **true profit drivers**, identify **inefficient revenue streams**, and provide **actionable business recommendations** using data.
 
@@ -8,7 +8,7 @@ The focus is not just *what sells*, but *what actually makes money*.
 
 ---
 
-## 🧠 Business Problem
+## Business Problem
 Walmart operates across multiple:
 - product categories
 - sub-categories
@@ -25,7 +25,7 @@ However:
 
 ---
 
-## 🎯 Business Objectives
+## Business Objectives
 - Analyze **sales and profit trends over time**
 - Identify **high-revenue vs high-profit categories**
 - Evaluate **profit efficiency by customer segment**
@@ -33,7 +33,7 @@ However:
 
 ---
 
-## ❓ Business Questions Answered
+## Business Questions Answered
 - Which months drive the highest sales and profits?
 - Do top-selling categories also generate high profit?
 - Which sub-categories underperform in profitability?
@@ -42,32 +42,32 @@ However:
 
 ---
 
-## 📊 Key Visual Insights
+## Key Visual Insights
 
-### 1️⃣ Monthly Sales Trend
+### Monthly Sales Trend
 ![Monthly Sales](monthly_sales.png)
 
-### 2️⃣ Sales by Product Category
+### Sales by Product Category
 ![Category Sales](category_sales.png)
 
-### 3️⃣ Sales by Product Sub-Category
+### Sales by Product Sub-Category
 ![Subcategory Sales](subcategory_sales.png)
 
-### 4️⃣ Monthly Profit Trend
+### Monthly Profit Trend
 ![Monthly Profit](monthly_profit.png)
 
-### 5️⃣ Profit by Product Category
+### Profit by Product Category
 ![Category Profit](category_profit.png)
 
-### 6️⃣ Profit by Product Sub-Category
+### Profit by Product Sub-Category
 ![Subcategory Profit](subcategory_profit.png)
 
-### 7️⃣ Sales & Profit by Customer Segment
+### Sales & Profit by Customer Segment
 ![Segment Analysis](segment_sales_profit.png)
 
 ---
 
-## 📈 KPI Summary
+## KPI Summary
 Key performance indicators were calculated to evaluate **true business performance**:
 
 - **Profit Margin** = Profit / Sales  
@@ -81,7 +81,7 @@ These KPIs reveal that:
 
 ---
 
-## 💡 Key Business Insights
+## Key Business Insights
 - Sales and profits show **clear seasonal patterns**
 - Certain categories generate **high sales but low profit margins**
 - A few sub-categories consistently outperform others in profitability
@@ -89,7 +89,7 @@ These KPIs reveal that:
 
 ---
 
-## 🧾 Business Impact & Recommendations
+## Business Impact & Recommendations
 - **Prioritize high-margin products** rather than high-volume products
 - **Optimize inventory planning** based on seasonal profit trends
 - **Re-evaluate pricing or discounts** for low-margin sub-categories
@@ -99,7 +99,7 @@ These actions can **increase profitability without increasing sales volume**.
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Python
 - Pandas
 - Plotly
@@ -108,16 +108,16 @@ These actions can **increase profitability without increasing sales volume**.
 
 ---
 
-## 📂 Project Files
-- 📘 **Main Notebook:**  
-  [Walmart_Sales_Profitability_Analysis.ipynb](Walmart_Sales_Profitability_Analysis.ipynb)
+## Project Files
+- **Main Notebook:**  
+  [Walmart Sales & Profitability Analysis: Business Insights for Revenue Optimization.ipynb](Walmart_Sales_Profitability_Analysis.ipynb)
 
-- 📊 **Exported Visuals:**  
+- **Exported Visuals:**  
   All charts saved as `.png` files for clear viewing on GitHub
 
 ---
 
-## 🚀 Why This Project Matters
+## Why This Project Matters
 This project demonstrates:
 - Business-oriented thinking (not just charts)
 - KPI-driven analysis
@@ -128,6 +128,6 @@ This project demonstrates:
 
 ---
 
-## 👤 Author
-**FAVATOS**  
+## Author
+**RAJASREE PAUL**  
 Aspiring Data Analyst | Python | Business Analytics | Data Visualization
