@@ -1,25 +1,133 @@
-# Walmart Sales & Profitability Analysis
+# 🛒 Walmart Sales & Profitability Analysis
 
-## Business Problem
-Walmart generates high sales volumes across multiple product categories and customer segments, but high revenue does not always translate into high profitability. This project analyzes sales data to identify profit drivers and revenue inefficiencies.
+## 📌 Project Overview
+Retail companies like Walmart generate massive sales volumes, but **high revenue does not always mean high profitability**.  
+This project analyzes Walmart sales data to uncover **true profit drivers**, identify **inefficient revenue streams**, and provide **actionable business recommendations** using data.
 
-## Objective
-To evaluate sales and profit performance across time, product categories, sub-categories, and customer segments to support data-driven decisions in inventory planning, pricing strategy, and customer prioritization.
+The focus is not just *what sells*, but *what actually makes money*.
 
-## Key Insights
-- Sales and profit exhibit strong seasonal patterns
-- High sales categories are not always the most profitable
+---
+
+## 🧠 Business Problem
+Walmart operates across multiple:
+- product categories
+- sub-categories
+- customer segments
+- seasons
+
+However:
+- Some high-sales products deliver low profit
 - Certain customer segments generate inefficient revenue
-- Profit margin and sales contribution KPIs reveal true performance drivers
+- Profitability varies significantly across time and product mix
 
-## Business Impact
-The analysis highlights opportunities to improve profitability by focusing on high-margin products, optimizing inventory by season, and prioritizing efficient customer segments—without increasing overall sales volume.
+**Key Question:**  
+> Where should Walmart focus to improve profitability *without increasing sales volume*?
 
-## Tools Used
+---
+
+## 🎯 Business Objectives
+- Analyze **sales and profit trends over time**
+- Identify **high-revenue vs high-profit categories**
+- Evaluate **profit efficiency by customer segment**
+- Calculate key KPIs to support **pricing, inventory, and customer strategy decisions**
+
+---
+
+## ❓ Business Questions Answered
+- Which months drive the highest sales and profits?
+- Do top-selling categories also generate high profit?
+- Which sub-categories underperform in profitability?
+- Which customer segments generate inefficient revenue?
+- Where should Walmart focus to maximize profit margins?
+
+---
+
+## 📊 Key Visual Insights
+
+### 1️⃣ Monthly Sales Trend
+![Monthly Sales](monthly_sales.png)
+
+### 2️⃣ Sales by Product Category
+![Category Sales](category_sales.png)
+
+### 3️⃣ Sales by Product Sub-Category
+![Subcategory Sales](subcategory_sales.png)
+
+### 4️⃣ Monthly Profit Trend
+![Monthly Profit](monthly_profit.png)
+
+### 5️⃣ Profit by Product Category
+![Category Profit](category_profit.png)
+
+### 6️⃣ Profit by Product Sub-Category
+![Subcategory Profit](subcategory_profit.png)
+
+### 7️⃣ Sales & Profit by Customer Segment
+![Segment Analysis](segment_sales_profit.png)
+
+---
+
+## 📈 KPI Summary
+Key performance indicators were calculated to evaluate **true business performance**:
+
+- **Profit Margin** = Profit / Sales  
+- **Sales Contribution % by Category**
+- **Sales-to-Profit Ratio by Customer Segment**
+
+These KPIs reveal that:
+- High sales ≠ high profitability
+- Some segments generate revenue inefficiently
+- A small number of categories drive a disproportionate share of profit
+
+---
+
+## 💡 Key Business Insights
+- Sales and profits show **clear seasonal patterns**
+- Certain categories generate **high sales but low profit margins**
+- A few sub-categories consistently outperform others in profitability
+- Some customer segments generate **high revenue but poor profit efficiency**
+
+---
+
+## 🧾 Business Impact & Recommendations
+- **Prioritize high-margin products** rather than high-volume products
+- **Optimize inventory planning** based on seasonal profit trends
+- **Re-evaluate pricing or discounts** for low-margin sub-categories
+- **Focus marketing and retention efforts** on high-profit customer segments
+
+These actions can **increase profitability without increasing sales volume**.
+
+---
+
+## 🛠 Tools & Technologies
 - Python
 - Pandas
 - Plotly
 - Google Colab
+- GitHub
 
-## Project Files
-- `Walmart_Sales_Profitability_Analysis.ipynb` – Main analysis notebook
+---
+
+## 📂 Project Files
+- 📘 **Main Notebook:**  
+  [Walmart_Sales_Profitability_Analysis.ipynb](Walmart_Sales_Profitability_Analysis.ipynb)
+
+- 📊 **Exported Visuals:**  
+  All charts saved as `.png` files for clear viewing on GitHub
+
+---
+
+## 🚀 Why This Project Matters
+This project demonstrates:
+- Business-oriented thinking (not just charts)
+- KPI-driven analysis
+- Ability to translate data into **decisions**
+- Real-world retail analytics skills
+
+> This is the type of analysis used by data analysts to support executive decision-making.
+
+---
+
+## 👤 Author
+**FAVATOS**  
+Aspiring Data Analyst | Python | Business Analytics | Data Visualization
